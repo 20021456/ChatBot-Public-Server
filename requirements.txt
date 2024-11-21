@@ -1,0 +1,9 @@
+python-dotenv
+chromadb
+sentence_transformers
+langchain>=0.0.317
+openai
+unstructured
+python-docx
+streamlit
+tiktoken
